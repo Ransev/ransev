@@ -101,7 +101,7 @@
     <tspan x="570" y="462" class="key">Repositories</tspan><tspan x="760" y="462" id="repo_data" class="value">21</tspan>
     <tspan x="850" y="462" class="key">Stars</tspan><tspan x="950" y="462" id="star_data" class="value">0</tspan>
     <tspan x="570" y="488" class="key">Accessible repos</tspan><tspan x="760" y="488" id="contrib_data" class="value">21</tspan>
-    <tspan x="850" y="488" class="key">Followers</tspan><tspan x="950" y="488" id="follower_data" class="value">3</tspan>
+    <tspan x="850" y="488" class="key">Followers</tspan><tspan x="950" y="488" id="follower_data" class="value">4</tspan>
     <tspan x="570" y="514" class="key">Lifetime commits</tspan><tspan x="760" y="514" id="commit_data" class="value">943</tspan>
     <tspan x="570" y="550" class="muted">NF-e · NFS-e · SEFAZ · e-CAC · PGFN · FGTS</tspan>
   </text>
